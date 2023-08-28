@@ -17,7 +17,7 @@ class Complex{
             cout << endl;
         }
         ~Complex(){
-            cout << "Complex dtor: ";
+            cout << "Complex dtor: ";   
             cout << endl;
         }
         double norm(){
